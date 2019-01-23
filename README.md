@@ -1,5 +1,5 @@
 # Git-Test
-A simple example for my youtube video: [Git Tutorial For Beginners](https://youtu.be/Vf_tem1oz4w)
+A simple example for my JamiBot youtube video: [Git Tutorial For Beginners](https://youtu.be/Vf_tem1oz4w)
 
 Learn best practices, how to install git, how to backup your code, explore previous snapshots, and collaberate with others.
 
